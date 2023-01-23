@@ -1,13 +1,24 @@
-# Netflix project
-
-### 주요기능
-1. dmdb.com 사이트에서 api를 이용해서 데이터 가져오기
-2. 가져온 데이터로 장르별로 영화 목록 만들기
-3. originals의 데이털르 이용해서 화면이 업데이트 될 때마다 새로운 메인 컨텐츠 업데이트
-4. usestate와 useEffect를 이용해서 상태 관리
-
+# Netflix Project
+## 📄 프로젝트 목적 및 설명
+* ### 목적
+  * API 이용해서 Data Fetch를 이해 및 학습
+  * async/await를 사용해 비통기 통신의 이해 및 학습
+  * react hooks로 데이터 상태관리
+* ### 설명
+  * react hooks를 이용해 tmdb에서 가져온 영화 목록의 상태관리
+  * react hooks를 이용해 스크롤에 따라 header 상태관리
+  * react hooks를 이용해 카테고리 별 영화목록 슬라이더 구현
+  * map메소드를 이용해서 가져온 데이터로 Layout 구현
 ---
-![netflix](https://user-images.githubusercontent.com/83106932/159152972-cebf7ed4-8efc-4522-bb40-88e4c630beed.png)
----
+## 🛠 개발 기간 및 사용 기술
 
-배포 : https://netflix-project-ehddn.netlify.app/
+- **개발 기간** : 20222.03.20 ~ 2022.04
+* **사용 기술** 
+
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+---
+## 배포
+https://netflix-project-ehddn.netlify.app/
